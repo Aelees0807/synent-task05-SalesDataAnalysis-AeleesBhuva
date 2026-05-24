@@ -1,0 +1,20 @@
+
+=== BUSINESS INSIGHTS REPORT ===
+
+1. Revenue Performance:
+   - Total Revenue: $2,297,200.86
+   - Average Order Value: $229.86
+   - Best Month: 2017-11
+
+2. Product Performance:
+   - Top Product: Canon imageCLASS 2200 Advanced Copier
+   - Top Product Revenue: $61,599.82
+
+3. Profitability:
+   - Total Profit: $286,397.02
+   - Average Profit Margin: 12.03%
+   - Most Profitable Category: Technology
+
+4. Regional Insights:
+   - Top Region: West
+   - Region Revenue: $725,457.82
